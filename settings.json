@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NeoFlame.aternos.me:23945",
+    "ip": "NeoFlame.aternos.me",
     "port": 23945,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
