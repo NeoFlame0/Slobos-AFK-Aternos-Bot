@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "NeoFlame.aternos.me:23945",
+    "port": 23945,
     "version": "",
     "try-creative": false
   },
